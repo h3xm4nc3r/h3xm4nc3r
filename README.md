@@ -1,12 +1,8 @@
 <h1 align="center">⚡ Hey, I'm h3xm4nc3r ⚡</h1>
 
-<p align="center">
-  <em>Web developer · NixOS ricer · terminal dweller</em>
-</p>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Web2+%2B+Web3+developer;Living+inside+the+terminal;Ricing+NixOS+is+my+therapy;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Nix" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
