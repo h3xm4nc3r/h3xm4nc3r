@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Web2+%2B+Web3+developer;Living+inside+the+terminal;Ricing+NixOS+is+my+therapy;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Nix" alt="Typing SVG" />
 </p> -->
 
----
-
 ### 🜂 About
 
 ```bash
