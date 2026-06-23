@@ -14,10 +14,9 @@
 
 ```bash
 $ whoami
-> Frontend dev with a Web3 focus and an unhealthy love for dotfiles.
+> Web dev with a Web3 focus.
 
 $ cat ~/.current_obsession
-> Building a modular NixOS flake on a GPD Pocket 4
 > Niri (Wayland) + Noctalia shell + Home Manager
 ```
 
